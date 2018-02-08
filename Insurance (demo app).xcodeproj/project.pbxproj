@@ -436,7 +436,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "";
 				DEVELOPMENT_TEAM = W8D8AHQ4A9;
 				INFOPLIST_FILE = "Insurance (demo app)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -449,7 +449,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "";
 				DEVELOPMENT_TEAM = W8D8AHQ4A9;
 				INFOPLIST_FILE = "Insurance (demo app)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -518,7 +518,7 @@
 				F8008DFF2010B39000B9D61E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F8008E002010B39000B9D61E /* Build configuration list for PBXNativeTarget "Insurance (demo app)" */ = {
 			isa = XCConfigurationList;
@@ -527,7 +527,7 @@
 				F8008E022010B39000B9D61E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F8008E032010B39000B9D61E /* Build configuration list for PBXNativeTarget "Insurance (demo app)Tests" */ = {
 			isa = XCConfigurationList;
@@ -536,7 +536,7 @@
 				F8008E052010B39000B9D61E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F8008E062010B39000B9D61E /* Build configuration list for PBXNativeTarget "Insurance (demo app)UITests" */ = {
 			isa = XCConfigurationList;
@@ -545,7 +545,7 @@
 				F8008E082010B39000B9D61E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
